@@ -48,7 +48,6 @@ INSERT INTO `companyinfo` (`id`, `company_name`, `company_gst`, `company_email`,
 (1, 'Gameon', '00012', 'aman@g.com', '1230456'),
 (7, 'UBS', '10003', 'loveleshcolaco.20@gmail.com', '1230456'),
 (4, 'infosys', '000023', 'loveleshcolaco.18@gmail.com', '1230456'),
-(8, 'MarkDsouza', '10005', 'markdsouza1998@gmail.com', '1230456'),
 (9, 'Infotech', '30025', 'loveleshcolaco.12@gmail.com', '1230456');
 COMMIT;
 
